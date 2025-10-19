@@ -1,0 +1,1 @@
+# gim-dink-config
