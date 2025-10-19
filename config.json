@@ -97,10 +97,11 @@
     "sendClanName": true,
     "playerLookupService": "OSRS_HISCORE",
     "threadNameTemplate": "[%TYPE%] %MESSAGE%",
+    "dynamicConfigUrl": "https://raw.githubusercontent.com/KVINTH/gim-dink-config/refs/heads/main/config.json",
     "tradeNotifyMessage": "%USERNAME% traded with %COUNTERPARTY%",
     "lootIncludePlayer": true,
     "combatTaskMinTier": "EASY",
-    "seasonalPolicy": "FORWARD_TO_LEAGUES",
+    "seasonalPolicy": "REJECT",
     "grandExchangeIncludeCancelled": false,
     "deathSafeExceptions": [
         "FIGHT_CAVE",
