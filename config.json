@@ -107,7 +107,7 @@
         "FIGHT_CAVE",
         "INFERNO"
     ],
-    "groupStorageSendImage": true,
+    "groupStorageSendImage": false,
     "levelNotifMessage": "%USERNAME% has levelled %SKILL%",
     "killCountBestTimeMessage": "%USERNAME% has defeated %BOSS% with a new personal best time of %TIME% and a completion count of %COUNT%",
     "collectionSendImage": true,
