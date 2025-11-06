@@ -87,7 +87,7 @@
     "clueEnabled": true,
     "clueMinValue": 100000,
     "embedColor": "#FFF40098",
-    "levelSendImage": false,
+    "levelSendImage": true,
     "chatPrivacy": "HIDE_SPLIT_PM",
     "deathIgnoredRegions": "123, 456, 789",
     "chatSendImage": true,
